@@ -13,9 +13,9 @@
 
   <!-- Description -->
 ```diff
-🛠️ A software engineer and flutter developer.
+🛠️ A software engineer and Flutter developer.
 @@ 💻 Proficient in building mobile and desktop applications.@@
-+  ✔️ Able to build cross platform systems with responsive user interface.
++  ✔️ Able to build cross-platform systems with a responsive user interface.
 !  👨‍💻 I am 17 years old, but I've built +5 freelance projects.
 #  ✨ If you can imagine it, you can program it. 
 ```
